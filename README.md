@@ -1,7 +1,7 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+This was a Python Project for our 12th grade Computer Sci. Practical. We decided to develop this game for that matter, which fortunatly did real great. This Project is based on the traditional pong game but with some modern touch... 
 
 
 ## Python Libraries Used
